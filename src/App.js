@@ -5,8 +5,6 @@ import { Segment, Container} from "semantic-ui-react";
 
 import MeetingsApp from "./meetingsApp/main";
 
-//ctrl + shift + u + 3c = <
-//ctrl + shift + u + 3e = >
 function App() {
   return (
     <div className="App">
